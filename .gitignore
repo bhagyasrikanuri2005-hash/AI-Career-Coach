@@ -1,0 +1,10 @@
+
+.venv/
+.venv311/
+.env
+__pycache__/
+*.pyc
+.vscode/
+career_coach_chroma_db/
+career-coach_chroma_db/
+career-coach_chroma_db_v2/
